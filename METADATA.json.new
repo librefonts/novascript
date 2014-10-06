@@ -1,0 +1,24 @@
+{
+  "name": "Nova Script",
+  "designer": "Wojciech Kalinowski",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 48058,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "italic",
+      "weight": 400,
+      "filename": "NovaScript-Book.ttf",
+      "postScriptName": "NovaScript",
+      "fullName": "Nova Script",
+      "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaScript' and 'Nova Script'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-23"
+}
